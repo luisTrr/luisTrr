@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luis 👋💻</h1>
-<h3 align="center">I am a fronted web application developer from Bolivia</h3>
+<h3 align="center">Web developer</h3>
 
 <div align=center>
   <a href="https://www.linkedin.com/in/luis-torrez-2408a1302/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Surjeet Bhadauriya Linkedin Account" width="30"/></a>
